@@ -13,6 +13,9 @@
 - 💾 自动备份现有配置
 - ✅ 自动检测多个 Claude Code 安装位置
 
+<img width="2091" height="3299" alt="6 24 " src="https://github.com/user-attachments/assets/8ab151e5-0534-4c44-b760-0c11cf78bd49" />
+
+
 ## 快速开始
 
 ### Windows
