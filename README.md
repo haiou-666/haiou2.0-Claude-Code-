@@ -15,8 +15,8 @@
 - ✅ 自动检测多个 Claude Code 安装位置
 
 ## 如果可以的话希望大家给予一个赞助，感恩不尽
-<img width="681" height="677" alt="1782626944918_1782626995170edit" src="https://github.com/user-attachments/assets/36a866df-1636-4d91-99ca-0dd28c2c14f3" />
-<img width="536" height="533" alt="IMG_20260628_140933" src="https://github.com/user-attachments/assets/7d2919d8-396e-48c1-8ba1-b6e4fa0661e6" />
+<img width="693" height="329" alt="未标题-1" src="https://github.com/user-attachments/assets/294854a6-55a3-4f01-8774-03bc48e86eb9" />
+
 
 
 ## 快速开始
