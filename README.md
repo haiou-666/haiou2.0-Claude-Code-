@@ -111,9 +111,8 @@ A: 桌面版的配置目录不同，脚本会自动检测并部署到所有可�
 A: 运行卸载脚本，会自动从 `~/.claude/backups/` 恢复最近备份。
 
 ## 如果可以的话希望大家给予一个赞助，感恩不尽
-<img width="693" height="329" alt="未标题-1" src="https://github.com/user-attachments/assets/294854a6-55a3-4f01-8774-03bc48e86eb9" />
 
-## QQ交流群：103880654
+## 交流群：@haiou126
 
 
 ## 文档
