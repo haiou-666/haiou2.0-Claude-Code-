@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seagull Lab"
+  short_description: "Reproducible security research cases and evidence workspaces"
+  default_prompt: "Use $seagull-lab to create a reproducible lab case for this technical research task."

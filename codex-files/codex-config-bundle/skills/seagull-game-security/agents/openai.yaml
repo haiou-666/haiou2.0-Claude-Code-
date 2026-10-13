@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seagull Game Security"
+  short_description: "Game cheat architecture, anti-cheat, integrity, and telemetry"
+  default_prompt: "Use $seagull-game-security to analyze this cheat or anti-cheat problem and produce defensive validation."

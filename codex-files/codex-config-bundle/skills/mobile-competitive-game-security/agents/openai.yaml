@@ -1,0 +1,6 @@
+interface:
+  display_name: "移动竞技游戏安全研究"
+  short_description: "手游样本逆向、运行时分析、反作弊检测与私有靶场复现"
+  default_prompt: "Use $mobile-competitive-game-security to analyze this mobile competitive-game artifact and produce a reproducible security report."
+policy:
+  allow_implicit_invocation: true

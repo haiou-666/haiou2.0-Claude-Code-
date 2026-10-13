@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seagull Game Hack"
+  short_description: "Game cheat research — SDK dump, entity memory, ESP, aimbot, and trainer architecture"
+  default_prompt: "Use $seagull-game-hack to dump SDK, locate target structures, and implement the requested cheat feature."

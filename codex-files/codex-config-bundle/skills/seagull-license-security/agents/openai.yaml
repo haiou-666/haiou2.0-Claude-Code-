@@ -1,0 +1,4 @@
+interface:
+  display_name: "海鸥卡密安全审计"
+  short_description: "分析授权验证链、激活协议、设备绑定、重放风险与修复复测"
+  default_prompt: "Use $seagull-license-security to recover and audit this license verification flow."

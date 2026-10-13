@@ -1,0 +1,3 @@
+interface:
+  display_name: "Seagull Game Red-Team"
+  short_description: "Game red-team ESP/AC/memory pipeline force-start"
