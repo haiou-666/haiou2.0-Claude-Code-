@@ -1,0 +1,4 @@
+interface:
+  display_name: "海鸥开局全域模式"
+  short_description: "开局自动启用全域逆向渗透和成熟表达并持续交付技术产物"
+  default_prompt: "Use $seagull-auto-ops to initialize full routing, mature-content M1, and continuous delivery."

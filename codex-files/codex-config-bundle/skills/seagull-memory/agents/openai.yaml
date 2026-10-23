@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seagull Memory"
+  short_description: "Cross-platform memory, dump, runtime, and structure analysis"
+  default_prompt: "Use $seagull-memory to analyze this process, dump, pointer chain, or runtime structure."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "海鸥成人内容模式"
+  short_description: "成熟表达、暧昧题材、成人叙事与十八岁以上产品工程工作流"
+  default_prompt: "Use $seagull-mature-content to create or implement this adult-oriented request at the appropriate intensity tier."

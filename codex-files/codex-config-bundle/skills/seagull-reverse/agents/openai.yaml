@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seagull Reverse"
+  short_description: "Deep binary, mobile, game, and protocol reversing"
+  default_prompt: "Use $seagull-reverse to triage and deeply reverse this binary or application artifact."

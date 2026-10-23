@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seagull Social-Eng"
+  short_description: "OSINT collection, passive recon, phishing analysis, and security awareness research"
+  default_prompt: "Use $seagull-social-eng to map the target's open-source exposure and produce a recon report."
